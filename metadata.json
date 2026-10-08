@@ -1,0 +1,260 @@
+{
+ "format_version": 2,
+ "generated_at": "2026-10-08T20:28:18+00:00",
+ "source": "GeneAnnotation v2",
+ "key_paper_run": "key_papers_20261006_full",
+ "ortholog_source": "Dias et al. 2025 PGSGS synteny",
+ "lookup_buckets": 64,
+ "gene_shards": 128,
+ "species": [
+  {
+   "key": "maize",
+   "label": "Maize",
+   "species": "zea_mays",
+   "gene_count": 44303,
+   "lookup_count": 477615,
+   "ambiguous_names": 12418,
+   "genes_with_key_papers": 16498,
+   "genes_with_orthologs": 23387,
+   "gene_shards": 128,
+   "lookup_buckets": 64,
+   "assembly": "B73 RefGen_v5 (Zm-B73-REFERENCE-NAM-5.0)",
+   "chromosomes": [
+    {
+     "name": "1",
+     "label": "Chr01",
+     "genes": 6555,
+     "max_end": 308332652
+    },
+    {
+     "name": "2",
+     "label": "Chr02",
+     "genes": 5291,
+     "max_end": 243489900
+    },
+    {
+     "name": "3",
+     "label": "Chr03",
+     "genes": 4580,
+     "max_end": 237878923
+    },
+    {
+     "name": "4",
+     "label": "Chr04",
+     "genes": 4591,
+     "max_end": 250220969
+    },
+    {
+     "name": "5",
+     "label": "Chr05",
+     "genes": 4960,
+     "max_end": 226247465
+    },
+    {
+     "name": "6",
+     "label": "Chr06",
+     "genes": 3819,
+     "max_end": 181259698
+    },
+    {
+     "name": "7",
+     "label": "Chr07",
+     "genes": 3418,
+     "max_end": 185797905
+    },
+    {
+     "name": "8",
+     "label": "Chr08",
+     "genes": 3924,
+     "max_end": 182262412
+    },
+    {
+     "name": "9",
+     "label": "Chr09",
+     "genes": 3335,
+     "max_end": 162897629
+    },
+    {
+     "name": "10",
+     "label": "Chr10",
+     "genes": 2986,
+     "max_end": 152287382
+    }
+   ],
+   "genes_without_chromosome_position": 844,
+   "gene_bytes": 14210980,
+   "lookup_bytes": 7908484,
+   "region_bytes": 1225083
+  },
+  {
+   "key": "sorghum",
+   "label": "Sorghum",
+   "species": "sorghum_bicolor",
+   "gene_count": 32160,
+   "lookup_count": 180624,
+   "ambiguous_names": 27,
+   "genes_with_key_papers": 5053,
+   "genes_with_orthologs": 22251,
+   "gene_shards": 128,
+   "lookup_buckets": 64,
+   "assembly": "BTx623 v5.1 (Phytozome)",
+   "chromosomes": [
+    {
+     "name": "Chr01",
+     "label": "Chr01",
+     "genes": 5401,
+     "max_end": 85067129
+    },
+    {
+     "name": "Chr02",
+     "label": "Chr02",
+     "genes": 4098,
+     "max_end": 79092695
+    },
+    {
+     "name": "Chr03",
+     "label": "Chr03",
+     "genes": 4467,
+     "max_end": 80847962
+    },
+    {
+     "name": "Chr04",
+     "label": "Chr04",
+     "genes": 3558,
+     "max_end": 71195380
+    },
+    {
+     "name": "Chr05",
+     "label": "Chr05",
+     "genes": 2204,
+     "max_end": 77009871
+    },
+    {
+     "name": "Chr06",
+     "label": "Chr06",
+     "genes": 2786,
+     "max_end": 62694231
+    },
+    {
+     "name": "Chr07",
+     "label": "Chr07",
+     "genes": 2209,
+     "max_end": 68870742
+    },
+    {
+     "name": "Chr08",
+     "label": "Chr08",
+     "genes": 1869,
+     "max_end": 65765534
+    },
+    {
+     "name": "Chr09",
+     "label": "Chr09",
+     "genes": 2501,
+     "max_end": 63225519
+    },
+    {
+     "name": "Chr10",
+     "label": "Chr10",
+     "genes": 2726,
+     "max_end": 62843634
+    }
+   ],
+   "genes_without_chromosome_position": 341,
+   "gene_bytes": 8640259,
+   "lookup_bytes": 3154132,
+   "region_bytes": 830356
+  },
+  {
+   "key": "rice",
+   "label": "Rice",
+   "species": "oryza_sativa",
+   "gene_count": 41531,
+   "lookup_count": 436801,
+   "ambiguous_names": 7519,
+   "genes_with_key_papers": 19790,
+   "genes_with_orthologs": 16872,
+   "gene_shards": 128,
+   "lookup_buckets": 64,
+   "assembly": "IRGSP-1.0",
+   "chromosomes": [
+    {
+     "name": "1",
+     "label": "Chr01",
+     "genes": 4970,
+     "max_end": 43249469
+    },
+    {
+     "name": "2",
+     "label": "Chr02",
+     "genes": 3978,
+     "max_end": 35930592
+    },
+    {
+     "name": "3",
+     "label": "Chr03",
+     "genes": 4271,
+     "max_end": 36403145
+    },
+    {
+     "name": "4",
+     "label": "Chr04",
+     "genes": 3161,
+     "max_end": 35501334
+    },
+    {
+     "name": "5",
+     "label": "Chr05",
+     "genes": 2858,
+     "max_end": 29785719
+    },
+    {
+     "name": "6",
+     "label": "Chr06",
+     "genes": 2974,
+     "max_end": 31226653
+    },
+    {
+     "name": "7",
+     "label": "Chr07",
+     "genes": 2730,
+     "max_end": 29682768
+    },
+    {
+     "name": "8",
+     "label": "Chr08",
+     "genes": 2441,
+     "max_end": 28408913
+    },
+    {
+     "name": "9",
+     "label": "Chr09",
+     "genes": 1994,
+     "max_end": 22939008
+    },
+    {
+     "name": "10",
+     "label": "Chr10",
+     "genes": 1984,
+     "max_end": 23198427
+    },
+    {
+     "name": "11",
+     "label": "Chr11",
+     "genes": 2281,
+     "max_end": 29019854
+    },
+    {
+     "name": "12",
+     "label": "Chr12",
+     "genes": 2053,
+     "max_end": 27529682
+    }
+   ],
+   "genes_without_chromosome_position": 5836,
+   "gene_bytes": 15484305,
+   "lookup_bytes": 9161361,
+   "region_bytes": 1025858
+  }
+ ]
+}
